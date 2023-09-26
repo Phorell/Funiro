@@ -1161,7 +1161,7 @@ body::after {
 }
 
 .slide-hero__image-ibg {
-  padding-bottom: 59%;
+  aspect-ratio: 934/553;
 }
 
 .slide-hero__content {
